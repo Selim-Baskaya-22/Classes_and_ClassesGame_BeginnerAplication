@@ -1,0 +1,7 @@
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\bin\Debug\Inheritance(Kalıtım).exe.config
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\bin\Debug\Inheritance(Kalıtım).exe
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\bin\Debug\Inheritance(Kalıtım).pdb
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\obj\Debug\Inheritance(Kalıtım).exe
+C:\Users\Casper\source\repos\ClassesGençay\Inheritance(Kalıtım)\obj\Debug\Inheritance(Kalıtım).pdb
