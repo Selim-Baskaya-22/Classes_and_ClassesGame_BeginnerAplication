@@ -1,0 +1,11 @@
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\bin\Debug\Rastgele_Sayı_Bulma_Oyunu.exe.config
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\bin\Debug\Rastgele_Sayı_Bulma_Oyunu.exe
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\bin\Debug\Rastgele_Sayı_Bulma_Oyunu.pdb
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Random_Number_Game.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Rastgele_Sayı_Bulma_Oyunu.DENEME.resources
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Rastgele_Sayı_Bulma_Oyunu.Form1.resources
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Rastgele_Sayı_Bulma_Oyunu.Properties.Resources.resources
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Random_Number_Game.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Random_Number_Game.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Rastgele_Sayı_Bulma_Oyunu.exe
+C:\Users\Casper\source\repos\ClassesGençay\Rastgele_Sayı_Bulma_Oyunu\obj\Debug\Rastgele_Sayı_Bulma_Oyunu.pdb
