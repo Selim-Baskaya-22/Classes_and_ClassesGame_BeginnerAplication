@@ -1,0 +1,10 @@
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\bin\Debug\ClassesFormGnecay.exe.config
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\bin\Debug\ClassesFormGnecay.exe
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\bin\Debug\ClassesFormGnecay.pdb
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.Form1.resources
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.Properties.Resources.resources
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.exe
+C:\Users\Casper\source\repos\ClassesGençay\ClassesFormGnecay\obj\Debug\ClassesFormGnecay.pdb
