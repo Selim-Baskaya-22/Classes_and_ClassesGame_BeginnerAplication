@@ -1,0 +1,7 @@
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\bin\Debug\ClassesGençay.exe.config
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\bin\Debug\ClassesGençay.exe
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\bin\Debug\ClassesGençay.pdb
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\obj\Debug\ClassesGençay.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\obj\Debug\ClassesGençay.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\obj\Debug\ClassesGençay.exe
+C:\Users\Casper\source\repos\ClassesGençay\ClassesGençay\obj\Debug\ClassesGençay.pdb
